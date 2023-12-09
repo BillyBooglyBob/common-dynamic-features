@@ -1,0 +1,9 @@
+.image-slider-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-slider {
+    display: flex;
+    flex-direction: row;
+}
